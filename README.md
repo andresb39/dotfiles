@@ -19,34 +19,35 @@ By organizing these configuration files in a repository, I can easily track chan
 
 ## Repository structure
 ```shell
-.
-└── config
-   ├── nvim
-   │  └── lua
-   │     └── andresb39
-   │        ├── core
-   │        └── plugins
-   │           └── lsp
-   ├── skhd
-   ├── tmux
-   │  ├── plugins
-   │  │  ├── tmux
-   │  │  │  ├── data
-   │  │  │  └── scripts
-   │  │  ├── tmux-sensible
-   │  │  └── tpm
-   │  │     ├── bin
-   │  │     ├── bindings
-   │  │     ├── docs
-   │  │     ├── lib
-   │  │     │  └── tmux-test
-   │  │     ├── scripts
-   │  │     │  └── helpers
-   │  │     └── tests
-   │  │        └── helpers
-   │  └── scripts
-   └── yabai
-      └── scrips
+ .
+├──  config
+│  ├──  nvim
+│  │  └──  lua
+│  │     └──  andresb39
+│  │        ├──  core
+│  │        └──  plugins
+│  │           └──  lsp
+│  ├──  skhd
+│  ├──  tmux
+│  │  ├──  plugins
+│  │  │  ├──  tmux
+│  │  │  │  ├──  data
+│  │  │  │  └──  scripts
+│  │  │  ├──  tmux-sensible
+│  │  │  └──  tpm
+│  │  │     ├──  bin
+│  │  │     ├──  bindings
+│  │  │     ├──  docs
+│  │  │     ├──  lib
+│  │  │     │  └──  tmux-test
+│  │  │     ├──  scripts
+│  │  │     │  └──  helpers
+│  │  │     └──  tests
+│  │  │        └──  helpers
+│  │  └──  scripts
+│  └──  yabai
+│     └──  scrips
+└──  image
 ```
 
 ## Configuration
