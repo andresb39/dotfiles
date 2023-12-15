@@ -18,7 +18,7 @@ This repository holds my configuration files for the applications listed below.
 By organizing these configuration files in a repository, I can easily track changes, share them with others, and quickly set up my preferred configurations on different machines.
 
 ## Repository structure
-```shell
+```
  .
 ├──  config
 │  ├──  nvim
